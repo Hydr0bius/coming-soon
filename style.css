@@ -25,3 +25,26 @@
     -18px 18px 20px rgba(0, 0, 0, 0.5),
     -18px 18px 30px rgba(0, 0, 0, 0.5);
 }
+.agua h2:nth-child(2){
+    color: #747f03;
+    opacity: 0.5;
+    animation: 3s animacion ease-in-out infinite;
+}
+.agua h2:nth-child(3){
+    color: #b9ca04;
+    opacity: 0.5;
+    animation: animacion 6s ease-in-out infinite;
+}
+.agua h2:nth-child(4){
+    color: #e7fd05;
+    animation: animacion 4s ease-in-out infinite;
+}
+
+@keyframes animacion{
+    0%, 100%{
+        clip-path: polygon(0% 46%, 16% 45%, 34% 52%, 50% 61%, 68% 65%, 85% 61%, 100% 53%, 100% 100%, 0% 100%);
+    }
+    50%{
+        clip-path: polygon(0 59%, 18% 67%, 36% 70%, 51% 66%, 66% 56%, 82% 49%, 100% 45%, 100% 100%, 0% 100%);
+    }
+}
