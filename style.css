@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.agua{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(#05e422, #037f13);
+}
+.agua h2{
+    position: absolute;
+    font-size: 15vw;
+}
+.agua h2:nth-child(1){
+    color: #fff;
+    text-shadow: -2px -2px 0px #05e422,
+                 -4px -4px 0px #05e422,
+                 -6px -6px 0px #05e422,
+                 -8px -8px 0px #05e422,
+    -18px 18px 20px rgba(0, 0, 0, 0.5),
+    -18px 18px 30px rgba(0, 0, 0, 0.5);
+}
