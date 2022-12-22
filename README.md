@@ -18,7 +18,7 @@ También se hizo uso de *keyframes*:
 
 ![ComingSoon](image/preview.png)
 
-vista del la página [preview](http://127.0.0.1:5500/index.html)
+vista del la página [preview](https://hydr0bius.github.io/coming-soon/)
 
 > El estilo de water se tomo como referencia del siguiente link [OnlineTutorials](https://www.youtube.com/watch?v=G4CRBvx-pac&list=WL&index=3), el cual explica los procedimientos para realizar la animación de agua.
 
