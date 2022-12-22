@@ -1,4 +1,4 @@
-# coming-soon
+# coming soon
 
 Realización de un **Coming Soon** animado para los lanzamientos que se realicen en el futuro de las diferentes prácticas y proyectos en el github.
 
